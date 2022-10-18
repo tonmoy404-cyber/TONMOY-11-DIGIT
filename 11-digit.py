@@ -85,7 +85,7 @@ def menu():
     print ('')
     print (50* '-')
     print ('[1]  \x1b[1;96mGP')
-    print ('[2]  \x1b[1);92mRobi')
+    print ('[2]  \x1b[1;92mRobi')
     print ('[3]  \x1b[1;96mAirtel')
     print ('[4]  \x1b[1;92mBanglalink')
     print ('[5]  \x1b[1;93mTeletalk')
