@@ -1,4 +1,4 @@
-rm -rf TONMOY-11-DIGIT-DECODE
+rm -rf TONMOY-11-DIGIT
 
 git clone https://github.com/tonmoy-cyber-404/TONMOY-11-DIGIT-DECODE.git
 
